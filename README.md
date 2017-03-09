@@ -1,4 +1,4 @@
-# spring-boot-demo
+# spring-boot-demo 只是为了玩耍
 ## 集成redis xml
 ```xml
   	<dependency>

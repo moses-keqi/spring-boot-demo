@@ -30,6 +30,13 @@
 		<version>1.2.3</version>
 	</dependency>
 ```
+## 集成activemq xml
+```xml
+	<dependency>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-activemq</artifactId>
+	</dependency>
+```
 ## 集成war打包 xml
 ```xml
 	<dependency>
@@ -43,3 +50,6 @@
 		<scope>provided</scope>
 	</dependency>
 ```
+
+
+
